@@ -1,0 +1,6 @@
+WE have three option at starting
+   1. admin pannel
+   2. register for vaccine
+   3. end
+
+if we have selcted first option, the co-ordinator can adding vaccine details(basis of pin code).then select second option,we enter pincode,that time if there is vaccine at that pincode,we have to book our slot.otherwise it displays"no vaccine are available in this pin.To select third option,we are going back.then displays thank you.here iam sets a secret code if enter 100.then we can finding which pincode,which vaccines are available.and in one mobile number 2vaccines are available.for eg)iam booked 2 covidshield at same number,then after again i cant book any slot
