@@ -100,7 +100,7 @@ def start_menu():
 
 def start():
     print("#################")
-    print("   vaccination   ")
+    print(" ---vaccination--- ")
     print("")
     start_menu()
     print("#################")
