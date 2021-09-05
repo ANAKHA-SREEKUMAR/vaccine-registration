@@ -82,7 +82,7 @@ def start_menu():
     print("3. End")
     try:
         x = int(input("Choose from above: "))
-        print("#################")
+        print("#################%")
         if x == 1:
             add_vaccine()
         elif x == 2:
